@@ -1,0 +1,8 @@
+{
+  "/api/*":{
+    "target":"https://www.apiappnet.somee.com",
+    "secure":true,
+    "logLevel":"debug",
+    "changeOrigin":true
+  }
+}
